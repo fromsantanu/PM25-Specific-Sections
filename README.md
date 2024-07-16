@@ -77,3 +77,24 @@ The boxplot highlights the severity of PM2.5 pollution in various Indian cities,
 - The meta-analysis estimates provide an overall summary effect, indicating a statistically significant association between PM2.5 and mortality across the cities.
 
 ##### This plot helps in understanding the varying impact of PM2.5 on mortality in different urban contexts within India and underscores the importance of using advanced analytical methods to assess the true burden of air pollution on public health.
+
+## Plot Analysis :  Integrated exposure–response curve (2-day moving average) between air pollution and mortality
+![Image](output2.png)
+
+#### Plot Components
+- X-Axis (PM2.5 µg/m³): This axis represents the concentration of PM2.5 in micrograms per cubic meter (µg/m³).
+- Y-Axis (Percent change (95% CI)): This axis shows the percent change in mortality associated with different levels of PM2.5 exposure, along with the 95% confidence intervals.
+
+#### Key Elements
+- Red Line: This line represents the estimated percent change in mortality associated with different levels of PM2.5 exposure.
+- Grey Shaded Area: This area represents the 95% confidence intervals around the estimated percent change in mortality. It provides a range within which the true percent change is likely to fall.
+- Vertical Dashed Line at 120 µg/m³: This line represents the 99th percentile of PM2.5 concentrations observed in the study. It highlights that most data points lie below this concentration.
+- Minimum Air Pollution Concentration (17.1 µg/m³): The plot uses 17.1 µg/m³ as the minimum concentration at which an effect was observed. This is because the WHO 24-hour ambient PM2.5 guideline of 15 µg/m³ was rarely observed in the dataset.
+
+#### Observations
+- Rising Trend: The curve shows that as PM2.5 concentration increases, the percent change in mortality also increases. This indicates a positive association between PM2.5 exposure and mortality.
+- Steeper Slope at Lower Levels: The curve is steeper at lower levels of PM2.5 concentration and starts to plateau at higher concentrations. This suggests that the relative increase in mortality risk is higher at lower levels of exposure and becomes less pronounced as PM2.5 levels increase.
+- Confidence Intervals: The grey shaded area widens as PM2.5 concentration increases, indicating greater uncertainty in the estimates at higher levels of PM2.5 exposure.
+
+#### Interpretation
+The plot demonstrates that short-term exposure to PM2.5 is associated with an increased risk of mortality, even at concentrations below the current Indian standard of 60 µg/m³. The steep slope at lower levels of PM2.5 exposure indicates that reducing PM2.5 concentrations, even slightly, can have significant public health benefits by reducing mortality rates.
