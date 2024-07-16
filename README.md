@@ -1,5 +1,5 @@
 # PM25 : Specific Sections of Article Explained
-Report Link : [Ambient air pollution and daily mortality in ten cities of India: a causal modelling study](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00114-1/fulltext)
+Link to the source : [Ambient air pollution and daily mortality in ten cities of India: a causal modelling study](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00114-1/fulltext)
 
 ## Plot Analysis :  boxplot illustrating the daily PM2.5 concentrations across ten Indian cities.
 
