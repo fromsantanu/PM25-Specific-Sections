@@ -76,4 +76,4 @@ The boxplot highlights the severity of PM2.5 pollution in various Indian cities,
 - The instrumental variable analysis (Panel B) shows generally higher percent changes in mortality compared to the conventional analysis (Panel A), suggesting a stronger effect when accounting for local pollution sources.
 - The meta-analysis estimates provide an overall summary effect, indicating a statistically significant association between PM2.5 and mortality across the cities.
 
-#####This plot helps in understanding the varying impact of PM2.5 on mortality in different urban contexts within India and underscores the importance of using advanced analytical methods to assess the true burden of air pollution on public health.
+##### This plot helps in understanding the varying impact of PM2.5 on mortality in different urban contexts within India and underscores the importance of using advanced analytical methods to assess the true burden of air pollution on public health.
