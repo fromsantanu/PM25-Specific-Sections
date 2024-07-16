@@ -2,7 +2,7 @@
 
 ## Plot Analysis :  boxplot illustrating the daily PM2.5 concentrations across ten Indian cities.
 
-![Image](#) 
+![Image](output.png)
 
 ### Plot Components
 - Cities: The y-axis lists the ten Indian cities: Ahmedabad, Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai, Pune, Shimla, and Varanasi.
