@@ -45,7 +45,7 @@ The boxplot highlights the severity of PM2.5 pollution in various Indian cities,
 - Pune: 0.80% increase (-0.06 to 1.66)
 - Shimla: 3.45% increase (-3.32 to 10.69)
 - Varanasi: 1.17% increase (0.49 to 1.86)
-##### Meta-Analysis Estimate: 1.42% increase (0.67 to 2.19), with a high degree of heterogeneity (I² = 95.7%, p < 0.00)
+###### Meta-Analysis Estimate: 1.42% increase (0.67 to 2.19), with a high degree of heterogeneity (I² = 95.7%, p < 0.00)
 
 ### Panel B: Instrumental Variables Causal Analyses
 #### Components:
@@ -64,7 +64,7 @@ The boxplot highlights the severity of PM2.5 pollution in various Indian cities,
 - Pune: 1.78% increase (0.73 to 2.85)
 - Shimla: 10.89% increase (0.27 to 22.64)
 - Varanasi: 3.80% increase (2.92 to 4.69)
-##### Meta-Analysis Estimate: 3.57% increase (2.11 to 5.04), with a high degree of heterogeneity (I² = 96.3%, p < 0.00)
+###### Meta-Analysis Estimate: 3.57% increase (2.11 to 5.04), with a high degree of heterogeneity (I² = 96.3%, p < 0.00)
 
 ###Key Points:
 - Panel A shows the results from conventional time-series analyses.
@@ -105,4 +105,4 @@ The plot demonstrates that short-term exposure to PM2.5 is associated with an in
 - Importance of Reducing PM2.5: Efforts to reduce PM2.5 concentrations can yield significant health benefits, especially in areas with high pollution levels.
 
 ## Conclusion
-##### The plots provide strong evidence of the harmful effects of PM2.5 on mortality and underscores the importance of air quality management to protect public health. It visually communicates that even small reductions in PM2.5 levels can lead to meaningful decreases in mortality risk.
+###### The plots provide strong evidence of the harmful effects of PM2.5 on mortality and underscores the importance of air quality management to protect public health. It visually communicates that even small reductions in PM2.5 levels can lead to meaningful decreases in mortality risk.
