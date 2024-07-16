@@ -78,7 +78,8 @@ The boxplot highlights the severity of PM2.5 pollution in various Indian cities,
 
 ##### This plot helps in understanding the varying impact of PM2.5 on mortality in different urban contexts within India and underscores the importance of using advanced analytical methods to assess the true burden of air pollution on public health.
 
-## Plot Analysis :  Integrated exposure–response curve (2-day moving average) between air pollution and mortality
+## Plot Analysis :  Integrated exposure–response curve (2-day moving average).
+
 ![Image](output2.png)
 
 #### Plot Components
@@ -98,3 +99,10 @@ The boxplot highlights the severity of PM2.5 pollution in various Indian cities,
 
 #### Interpretation
 The plot demonstrates that short-term exposure to PM2.5 is associated with an increased risk of mortality, even at concentrations below the current Indian standard of 60 µg/m³. The steep slope at lower levels of PM2.5 exposure indicates that reducing PM2.5 concentrations, even slightly, can have significant public health benefits by reducing mortality rates.
+
+#### Policy Implications
+- No Safe Threshold: The absence of a flat portion in the curve suggests that there is no safe threshold for PM2.5 exposure; even low levels are associated with increased mortality.
+- Importance of Reducing PM2.5: Efforts to reduce PM2.5 concentrations can yield significant health benefits, especially in areas with high pollution levels.
+
+## Conclusion
+##### The plots provide strong evidence of the harmful effects of PM2.5 on mortality and underscores the importance of air quality management to protect public health. It visually communicates that even small reductions in PM2.5 levels can lead to meaningful decreases in mortality risk.
